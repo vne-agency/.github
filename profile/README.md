@@ -1,4 +1,4 @@
-[![VNE / ВНЕ — Beyond the expected.](https://raw.githubusercontent.com/vne-agency/.github/main/assets/cover.png?v=20260916)](https://vne.agency/)
+[![VNE / ВНЕ — Beyond the expected.](https://raw.githubusercontent.com/vne-agency/.github/fdaf8e8cb61cacf308d7ab04eb87126fb62a4bba/assets/cover.png)](https://vne.agency/)
 
 We design and build websites and interactive experiences.
 
