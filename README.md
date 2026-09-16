@@ -1,11 +1,14 @@
-# Оформление ВНЕ
+# VNE / ВНЕ — profile assets
 
-Публичный профиль организации — в `profile/README.md`.
+The public organization profile lives in `profile/README.md`.
 
-- `assets/cover.png` — обложка профиля, 1200 × 560.
-- `assets/avatar.png` — фирменный знак для аватара, 512 × 512.
-- `design-source/` — HTML-исходники обложек и шрифт Onest с лицензией.
+- `assets/cover.png` — 1600 × 560 profile cover, coordinated with the Behance identity.
+- `assets/avatar.png` — 1024 × 1024 black orbital mark on white, matching the Behance avatar.
+- `design-source/profile-cover.svg` and `design-source/profile-avatar.svg` — current vector masters, with outlined lettering.
+- `design-source/fonts/` — Onest source fonts and license.
 
-Цвета и знак взяты с vne.agency: графит `#22231f`, молочный `#f4f3ee`, сиреневый `#ceb4f5`.
+Palette: graphite `#22231f`, paper `#f4f3ee`, lilac `#ceb4f5`.
 
-Для экспорта откройте HTML через локальный HTTP-сервер, дождитесь загрузки шрифтов и сохраните элемент `#art` в PNG при масштабе 1:1. Обложки статичны и не зависят от сторонних сервисов статистики.
+The PNG cover is embedded in the profile README. The avatar must also be uploaded in the organization's profile settings; changing the repository asset alone does not update the GitHub avatar.
+
+The older HTML studies remain in `design-source/` for reference.
